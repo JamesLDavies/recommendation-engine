@@ -1,2 +1,4 @@
 toml
 pandas
+sklearn
+numpy

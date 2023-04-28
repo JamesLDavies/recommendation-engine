@@ -2,3 +2,4 @@ name = "James"
 
 [paths]
 movies = "C:/Users/james/Documents/movies_data/movie.csv"
+ratings = "C:/Users/james/Documents/movies_data/rating.csv"
